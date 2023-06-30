@@ -6,7 +6,7 @@ We are licensing the core openFrame components under under the permissive versio
 ## Where to find information
 
 ### [CAD designs](https://github.com/ImperialCollegeLondon/openFrame/tree/main/openFrame%20CAD)
-The CAD files for the openFrame components licensed under the permissive version of the CERN Open Hardware License Version 2 can be found in the folder called [openFrame CAD](https://github.com/ImperialCollegeLondon/openFrame/tree/main/openFrame%20CAD). This folder also contains suggested specifications for fabrication of these components. 
+The CAD files for the openFrame components licensed under the permissive version of the CERN Open Hardware License Version 2 can be found in the folder called [openFrame CAD](https://github.com/ImperialCollegeLondon/openFrame/tree/main/openFrame%20CAD). The [part description PDFs](https://github.com/ImperialCollegeLondon/openFrame/tree/main/openFrame%20part%20description%20PDFs) folder contains important information such as hole tapping data, as well as suggested specification information relevant for fabrication of these components. 
 
 ### [Assembly instructions](https://github.com/ImperialCollegeLondon/openFrame/wiki)
 As they become available, assembly instructions for creating an openFrame-based epifluorescence microscope will be found in the [wiki](https://github.com/ImperialCollegeLondon/openFrame/wiki) for this repo. Please note that as the system is modular and extensible, a much larger range of configurations are possible, but it is not feasible to document the assembly of every possible permutation. 
