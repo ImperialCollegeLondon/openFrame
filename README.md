@@ -1,4 +1,4 @@
-# Introduction to openFrame
+# Introduction to _openFrame_
 
 This repository hosts information and instructions associated with the modular _openFrame_ microscope, a cost-effective platform based on open-hardware core components that can be configured or adapted to most light microscopy techniques and is intended to be used with open-source software, making instruments straightforward to maintain and to upgrade. _openFrame_ microscopes are based on stackable cylindrical aluminium layers centred on an optical axis that can accommodate a range of generic or specialised microscope components and which are ready to be mounted to external components such as optical cage systems. 
 We are licensing the core _openFrame_ components under under the permissive version of the CERN Open Hardware License Version 2 ([https://ohwr.org/cern_ohl_p_v2.pdf](https://ohwr.org/cern_ohl_p_v2.pdf)), including the component designs hosted on this repository. We do not wish to restrict users in their ability to utilise _openFrame_ components and, as well as supporting the assembly of open instrumentation, openFrame components can be used with closed-source and proprietary technologies
