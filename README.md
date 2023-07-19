@@ -5,6 +5,8 @@ We are licensing the core _openFrame_ components under under the permissive vers
 
 Please see the ["How to cite openFrame" file](https://github.com/ImperialCollegeLondon/openFrame/blob/main/HOW%20TO%20CITE%20OPENFRAME.md) for information on how to cite _openFrame_
 
+For further information on the modules that make up openFrame and associated information, please check the [wiki](https://github.com/ImperialCollegeLondon/openFrame/wiki) for this repository. 
+
 ## Where to find information
 
 ### [CAD designs](https://github.com/ImperialCollegeLondon/openFrame/tree/main/openFrame%20CAD)
